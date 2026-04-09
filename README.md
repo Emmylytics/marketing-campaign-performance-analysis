@@ -119,11 +119,11 @@ An interactive one-page dashboard was developed to present key insights.
 
 ### Key Features:
 
-* KPI overview (Profit, ROI, CPC, CTR)
+* KPI overview (Profit, ROI, Revenue, Ad Spend, Conversion Rate)
 * Profit by marketing channel
-* Monthly profit trends
-* Campaign performance comparison
-* Cluster-based segmentation
+* Monthly ROI, Revenue & Profit trends
+* Ranked table showing Revenue and ROI by marketing channel
+* Revenue & ROI by campaign type
 
 ---
 
