@@ -166,7 +166,7 @@ High-performing campaigns are characterized by:
 marketing-campaign-analysis/
 │
 ├── datasets/
-│   └── campaign_data.csv
+│   └── marketing_campaign_datasets.csv
 │
 ├── notebooks/
 │   └── marketing_analysis.ipynb
