@@ -169,14 +169,11 @@ marketing-campaign-analysis/
 │   └── marketing_campaign_datasets.csv
 │
 ├── notebooks/
-│   └── marketing_analysis.ipynb
+│   ├── data_preparation.sql
+│   └── eda_ml_analysis.ipynb
 │
 ├── powerbi/
-│   └── marketing_dashboard.pbix
-│
-├── outputs/
-│   ├── figures/
-│   └── models/
+│   └── campaign_performance.pbix
 │
 ├── .env
 ├── requirements.txt
