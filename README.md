@@ -163,19 +163,20 @@ High-performing campaigns are characterized by:
 ## 📁 Repository Structure
 
 ```id="83291x"
-marketing-campaign-analysis/
+marketing-campaign-performance-analysis/
 │
 ├── datasets/
-│   └── marketing_campaign_datasets.csv
+│   └── marketing_campaign_data.zip
 │
 ├── notebooks/
-│   ├── data_preparation.sql
 │   └── eda_ml_analysis.ipynb
+|
+├── sql/
+│   └── data_preparation.sql
+|
+├── images/
+│   └── campaign_dashboard.png
 │
-├── powerbi/
-│   └── campaign_performance.pbix
-│
-├── .env
 ├── requirements.txt
 ├── README.md
 └── .gitignore
