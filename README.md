@@ -189,10 +189,9 @@ marketing-campaign-performance-analysis/
 Campaign profitability is primarily driven by **cost efficiency (CPC)** rather than engagement (CTR), with high-performing campaigns characterized by low acquisition costs and efficient conversion behavior.
 
 ---
-
 ## 👤 Author
 
-**Emmanuel**
-Data Analyst | SQL • Python • Power BI • Machine Learning
 
----
+**Emmanuel**<br>
+Data Analyst<br>
+SQL • Python • Power BI • Machine Learning
